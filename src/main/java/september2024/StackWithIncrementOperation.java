@@ -1,6 +1,4 @@
-package September2024;
-
-import java.util.LinkedList;
+package september2024;
 
 public class StackWithIncrementOperation {
     /*

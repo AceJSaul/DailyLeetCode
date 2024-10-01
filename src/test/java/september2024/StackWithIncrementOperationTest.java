@@ -1,10 +1,7 @@
-package September2024;
+package september2024;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import java.util.Arrays;
-import java.util.Stack;
 
 import static org.junit.jupiter.api.Assertions.*;
 
